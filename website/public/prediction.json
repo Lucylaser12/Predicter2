@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-21T07:51:16.311352+00:00",
+  "generated_at": "2026-08-21T08:51:30.990709+00:00",
   "symbol": "BTCUSDT",
   "interval": "60m",
   "data_source": "CoinGecko (pseudo-OHLC, resampled from price points)",
-  "latest_candle_time": "2026-08-21T07:00:00+00:00",
-  "latest_close_price": 76471.9405381176,
+  "latest_candle_time": "2026-08-21T08:00:00+00:00",
+  "latest_close_price": 77980.51565964593,
   "prediction": "down",
-  "probability_up": 0.4345,
-  "confidence_pct": 13.11,
+  "probability_up": 0.4872,
+  "confidence_pct": 2.56,
   "model_type": "lightgbm",
   "walk_forward_accuracy": 0.4642,
   "walk_forward_folds": [
