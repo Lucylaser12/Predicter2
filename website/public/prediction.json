@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-08-21T13:03:16.136681+00:00",
+  "generated_at": "2026-08-21T13:53:47.670012+00:00",
   "symbol": "BTCUSDT",
   "interval": "60m",
   "data_source": "CoinGecko (pseudo-OHLC, resampled from price points)",
   "latest_candle_time": "2026-08-21T13:00:00+00:00",
-  "latest_close_price": 77148.79124666206,
+  "latest_close_price": 77587.21950642104,
   "prediction": "up",
-  "probability_up": 0.5113,
-  "confidence_pct": 2.27,
+  "probability_up": 0.6051,
+  "confidence_pct": 21.01,
   "model_type": "lightgbm",
-  "walk_forward_accuracy": 0.4453,
+  "walk_forward_accuracy": 0.4491,
   "walk_forward_folds": [
-    0.4528,
-    0.4906,
+    0.4717,
+    0.5094,
     0.3962,
     0.5283,
-    0.3585
+    0.3396
   ],
-  "rows_used": 672,
+  "rows_used": 671,
   "disclaimer": "Ye sirf educational/portfolio project hai. Out-of-sample accuracy coin-flip (50%) ke kareeb hai. Fees ke baad shayad profitable na ho. Real money trading ke liye use na karein."
 }
